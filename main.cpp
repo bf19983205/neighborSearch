@@ -15,18 +15,18 @@
 #include <ctime>
 
 
-// #define DIM                  2
-// #define PARTICLE_DISTANCE    0.025
-// #define DT                   0.001
-// #define OUTPUT_INTERVAL      20
+#define DIM                  2
+#define PARTICLE_DISTANCE    0.006
+#define DT                   0.001
+#define OUTPUT_INTERVAL      20
 
 
 /* for three-dimensional simulation */
 
-#define DIM                  3
-#define PARTICLE_DISTANCE    0.04
-#define DT                   0.003
-#define OUTPUT_INTERVAL      2
+// #define DIM                  3
+// #define PARTICLE_DISTANCE    0.04
+// #define DT                   0.003
+// #define OUTPUT_INTERVAL      2
 
 
 #define ARRAY_SIZE           9000
